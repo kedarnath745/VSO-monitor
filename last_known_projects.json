@@ -23,5 +23,35 @@
     "name": "Aati da Tulu parba",
     "date": "18-07-2026",
     "timing": "8am-11am"
+  },
+  {
+    "name": "Vidya - A Visit to Namma Bhoomi",
+    "date": "02-08-2026",
+    "timing": "9:00AM"
+  },
+  {
+    "name": "Akshara - A Visit to the Academy School",
+    "date": "31-07-2026",
+    "timing": "12.45-1.45pm"
+  },
+  {
+    "name": "Muskaan - A Visit to the Bijapur Colony",
+    "date": "01-08-2026",
+    "timing": "4:00-6:00"
+  },
+  {
+    "name": "Sanjeevani - A Visit to Pediatric Ward",
+    "date": "02-08-2026",
+    "timing": "4 30 to 6 30 pm"
+  },
+  {
+    "name": "Jyoti - A visit to Asare",
+    "date": "02-08-2026",
+    "timing": "4.00 pm to 6.00 pm"
+  },
+  {
+    "name": "Aasha - A Visit to Old Age home",
+    "date": "02-08-2026",
+    "timing": "10 am - 12 pm"
   }
 ]
