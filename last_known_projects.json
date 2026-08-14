@@ -153,5 +153,10 @@
     "name": "ANMOL",
     "date": "16-08-2026",
     "timing": "10am-12pm"
+  },
+  {
+    "name": "Day Care",
+    "date": "17-08-2026",
+    "timing": "3:30-4:30"
   }
 ]
